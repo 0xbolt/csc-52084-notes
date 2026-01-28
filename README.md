@@ -51,7 +51,8 @@ My notes for CSC-52084: Image Synthesis at École Polytechnique.
 - Fundamentals of Computer Graphics
 
 ## Related Courses
-...
+- [CS248A](https://gfxcourses.stanford.edu/cs248a/winter25)
+- [CMU 15-462](https://15462.courses.cs.cmu.edu/fall2021/)
 
 ## Miscellaneous
 - [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
